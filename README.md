@@ -44,6 +44,13 @@ Este GitHub e o canal **Tudo Dev** foram criados para compartilhar tecnologia, c
 
 ---
 
+### 📈 Métricas do Repositório
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=radical)
+
+*Substitua `SEU_USUARIO` pelo seu nome de usuário no GitHub.*
+
 ### 📺 Confira o canal no YouTube:
 Lá você encontrará tutoriais detalhados, exemplos práticos e dicas para se aprofundar em **JavaScript** e outras tecnologias.
 
@@ -61,3 +68,6 @@ Acompanhe novidades, dicas rápidas e bastidores do que está sendo desenvolvido
 - Tutoriais completos e guias para quem está começando ou buscando se especializar em desenvolvimento Full Stack.
 
 ### 💡 Junte-se à comunidade **Tudo Dev** para aprender e construir projetos inovadores!
+
+### 🐍 Adicione a cobrinha:
+![Cobrinha](https://github.com/tudodevs/tudodevs/blob/output/github-contribution-grid-snake.svg)
