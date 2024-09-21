@@ -48,7 +48,7 @@ Este GitHub e o canal **Tudo Dev** foram criados para compartilhar tecnologia, c
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=tudodevs&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-right: 20px;"/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tudodevs&hide_progress=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tudodevs&hide_progress=true&theme=radical" alt="Top Langs"/>
 </div>
 
 ### 📺 Confira o canal no YouTube:
@@ -58,6 +58,7 @@ Lá você encontrará tutoriais detalhados, exemplos práticos e dicas para se a
 
 ### 📸 Siga no Instagram:
 Acompanhe novidades, dicas rápidas e bastidores do que está sendo desenvolvido.
+
 [![Instagram](https://img.shields.io/badge/Instagram-tudo.devs-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/tudo.devs)
 
 ---
