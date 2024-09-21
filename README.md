@@ -148,16 +148,10 @@ Acompanhe novidades, dicas rápidas e bastidores do que está sendo desenvolvido
 Fique à vontade para me seguir nas redes sociais e entrar em contato!
 
 <p align="left">
-  <a href="https://linkedin.com/in/seu-perfil-linkedin" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/seu-perfil-twitter" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
   <a href="https://instagram.com/seu-perfil-instagram" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
-  <a href="mailto:seu-email@dominio.com" target="_blank">
+  <a href="mailto: tudodevs@gmail.com" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" />
   </a>
 </p>
