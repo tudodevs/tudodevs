@@ -46,8 +46,10 @@ Este GitHub e o canal **Tudo Dev** foram criados para compartilhar tecnologia, c
 
 ### 📈 Métricas do Repositório
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tudodevs &show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api?username=tudodevs)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=tudodevs&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-right: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tudodevs&theme=radical" alt="Top Languages"/>
+</div>
 
 ### 📺 Confira o canal no YouTube:
 Lá você encontrará tutoriais detalhados, exemplos práticos e dicas para se aprofundar em **JavaScript** e outras tecnologias.
