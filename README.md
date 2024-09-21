@@ -46,6 +46,7 @@ Este GitHub e o canal **Tudo Dev** foram criados para compartilhar tecnologia, c
 
 ### 📺 Confira o canal no YouTube:
 Lá você encontrará tutoriais detalhados, exemplos práticos e dicas para se aprofundar em **JavaScript** e outras tecnologias.
+
 [![YouTube Tudo Dev](https://img.shields.io/badge/YouTube-Tudo%20Dev-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@tudodev)
 
 ### 📸 Siga no Instagram:
